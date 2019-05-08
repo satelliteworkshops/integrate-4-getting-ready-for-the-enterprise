@@ -2,8 +2,8 @@
 <h3 align="center">Shipping GitHub Enterprise Server-compatible integrations</h3>
 
 <p align="center">
-  <a href="#mega-prerequisites">Prerequisites</a> *  
-  <a href="#paw_prints-next-steps">Next steps</a> * 
+  <a href="#mega-prerequisites">Prerequisites</a> •  
+  <a href="#paw_prints-next-steps">Next steps</a> • 
   <a href="#books-additional-resources">Additional resources</a>
 </p>
 
