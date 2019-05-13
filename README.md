@@ -10,10 +10,7 @@
 > In this 50 minute workshop we’ll show you how to ship integrators for GitHub Enterprise Server—including developer licensing and code modifications, as well as common packaging, distribution, and installation patterns for on-premises GitHub Apps. We’ll also share best practices and helpful resources to get you started. In the end, you’ll leave knowing how to share developer tools with Enterprise Server teams, whether for code quality, developer productivity, project management, or automation.
 
 ## :mega: Prerequisites
-Before the workshop, please make sure you:
-1. Are registered with [**Glitch.com**](https://glitch.com/)
-    - You can [register with Glitch using your GitHub account](https://github.com/login/oauth/authorize?client_id=b4cb743ed07e20abf0b2&scope=user%3Aemail&redirect_uri=https%3A%2F%2Fglitch.com%2Flogin%2Fgithub)
-1. Are logged in with your GitHub account to [**satellite-registration.glitch.me**](https://satellite-registration.glitch.me/login)
+Before the workshop, please make sure you are logged in with your GitHub account to [**satellite-registration.glitch.me**](https://satellite-registration.glitch.me/login).
 
 ## :paw_prints: Next steps
 Once logged in, you will be presented with a further registration page, like the one below…
